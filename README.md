@@ -1,16 +1,29 @@
-### Hi there 👋
+[![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://mihir-110103.io)
+<h1 align="center">Hi 👋, I'm Mihir Randive</h1>
+<h3 align="center">A passionate Data Science Engineering Student from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966")
 
-<!--
-**MIHIR-110103/MIHIR-110103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-110103&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-110103" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python**
+
+- 📫 How to reach me **mihir.studyy@gmail.com**
+
+- ⚡ Fun fact **I am a Space Enthusiast.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mihir randive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir randive" height="30" width="40" /></a>
+<a href="https://kaggle.com/mihir bhushan randive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mihir bhushan randive" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-110103&show_icons=true&locale=en" alt="mihir-110103" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-110103&" alt="mihir-110103" /></p>
