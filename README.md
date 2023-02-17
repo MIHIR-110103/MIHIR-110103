@@ -15,26 +15,38 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mihir randive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir randive" height="30" width="40" /></a>
-<a href="https://kaggle.com/mihir bhushan randive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mihir bhushan randive" height="30" width="40" /></a>
-<a href="https://medium.com/mihir randive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mihir randive" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mihirrandive" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mihirrandive" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mihir randive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mihir randive" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mihir randive" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="mihir randive" height="40" width="40" /></a>
+<a href="https://kaggle.com/mihir bhushan randive" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" alt="mihir bhushan randive" height="30" width="70" /></a>
+<a href="https://medium.com/mihir randive" target="blank">
+  <img align="center" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" alt="mihir randive" height="40" width="150" /></a>
+<a href="https://www.codechef.com/users/mihirrandive" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mihirrandive" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/mihir randive" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/480/c-programming.png" alt="c" width="50" height="50"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" alt="css3" width="50" height="50"/></a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html5" width="50" height="50"/></a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" alt="javascript" width="50" height="50"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="50" height="50"/></a>  
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="pandas" width="50" height="50"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/></a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit_learn" width="70" height="40"/></a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/></a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" /></p>
