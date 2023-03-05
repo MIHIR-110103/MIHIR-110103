@@ -53,15 +53,16 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 <img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit_learn" width="70" height="40"/></a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img align="left" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
+<img align="left" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60"/>
   </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img align="left" alt="C Programming" width="100px" height="50" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png"/>
-  </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+<img align="left" alt="C Programming" width="90px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png"/>
+  </a> 
+<img align="left" alt="C Programming" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" />
 </p>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-110103&show_icons=true&locale=en" alt="mihir-110103" />
