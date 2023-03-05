@@ -30,27 +30,42 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/color/480/c-programming.png" alt="c" width="50" height="50"/></a> 
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+  </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" alt="css3" width="50" height="50"/></a>  
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html5" width="50" height="50"/></a> 
+<img align="left" alt="HTML" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+  </a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" alt="javascript" width="50" height="50"/></a> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="50" height="50"/></a>  
+<img align="left" alt="mysql" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  </a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="pandas" width="50" height="50"/></a> 
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+ </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/></a> 
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit_learn" width="70" height="40"/></a> 
+<img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit_learn" width="70" height="40"/></a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/></a> 
+<img align="left" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
+  </a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+<img align="left" alt="C Programming" width="100px" height="50" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-110103&show_icons=true&locale=en" alt="mihir-110103" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-110103&" alt="mihir-110103" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-110103&show_icons=true&locale=en" alt="mihir-110103" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-110103&" alt="mihir-110103" />
+</p>
