@@ -57,14 +57,13 @@
  </a> 
 <img align="left" alt="Matplotlib" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img align="left" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="50"/>
-  </a> 
+<img align="left" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="50"/></a>
+  <br>
+  <br>
+  <br>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 <img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052" alt="scikit_learn" width="70" height="40"/></a> 
 <img align="left" alt="Selenium" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <br>
-  <br>
-  <br>
 <img align="left" alt="Julia" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
 <img align="left" alt="Tableau" width="50px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" />
 </p>
