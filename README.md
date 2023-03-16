@@ -53,7 +53,7 @@
 <img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit_learn" width="70" height="40"/></a> 
+<img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052" alt="scikit_learn" width="70" height="40"/></a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img align="left" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="50"/>
   </a> 
