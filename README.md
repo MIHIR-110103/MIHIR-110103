@@ -12,19 +12,21 @@
 - 📫 How to reach me **mihir.studyy@gmail.com**
 
 - ⚡ Fun fact **I am a Space Enthusiast.**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mihir randive" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="mihir randive" height="40" width="40" /></a>
-<a href="https://kaggle.com/mihir bhushan randive" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" alt="mihir bhushan randive" height="30" width="70" /></a>
+  <img align="center" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" alt="mihir randive" width="50" /></a>
 <a href="https://medium.com/mihir randive" target="blank">
-  <img align="center" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" alt="mihir randive" height="40" width="150" /></a>
+  <img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" alt="mihir randive" width="50" /></a>
+<a href="https://kaggle.com/mihir bhushan randive" target="blank">
+  <img align="center" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" alt="mihir bhushan randive"  width="70" /></a>
+<a href="https://medium.com/mihir randive" target="blank">
+  <img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="mihir randive" width="50" /></a>
 <a href="https://www.codechef.com/users/mihirrandive" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mihirrandive" height="50" width="50" /></a>
+  <img align="center" src="https://img.icons8.com/fluency/256/codechef.png" alt="mihirrandive" width="70" /></a>
 <a href="https://www.hackerrank.com/mihir randive" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50" width="50" /></a>
+  <img align="center" src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,15 +55,18 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 <img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit_learn" width="70" height="40"/></a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img align="left" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60"/>
+<img align="left" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="50"/>
   </a> 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="C Programming" width="90px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png"/>
+<img align="left" alt="C Programming" width="50px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>
   </a> 
 <img align="left" alt="C Programming" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </p>
-
+<br>
+<br>
+<hr>
 <p>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" />
 </p>
 <p>
