@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I am a Space Enthusiast.**
 <br>
-<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
