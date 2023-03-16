@@ -44,7 +44,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="mysql" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="mysql" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
 <img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
