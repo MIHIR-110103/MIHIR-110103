@@ -33,37 +33,41 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="HTML" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="HTML" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   </a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a> 
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="mysql" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="mysql" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </a>  
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
- </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052" alt="scikit_learn" width="70" height="40"/></a> 
+<img align="left" alt="Numpy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img align="left" alt="C Programming" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+ </a> 
+<img align="left" alt="Matplotlib" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img align="left" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="50"/>
   </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-<img align="left" alt="C Programming" width="50px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>
-  </a> 
-<img align="left" alt="C Programming" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+<img align="left" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052" alt="scikit_learn" width="70" height="40"/></a> 
+<img align="left" alt="Selenium" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <br>
+  <br>
+  <br>
+<img align="left" alt="Julia" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
+<img align="left" alt="Tableau" width="50px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" />
 </p>
-<br>
 <br>
 <br>
 <hr>
