@@ -61,7 +61,7 @@
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
 <img align="left" alt="C Programming" width="50px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"/>
   </a> 
-<img align="left" alt="C Programming" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="C Programming" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 <br>
 <br>
