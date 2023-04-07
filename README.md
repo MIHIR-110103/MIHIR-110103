@@ -69,7 +69,9 @@
 <img align="left" alt="Selenium" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Julia" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
 <img align="left" alt="Tableau" width="50px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" />
+<img align="left" alt="Tableau" width="50px" src="https://avatars.githubusercontent.com/u/6884283?s=280&v=4" />
 </p>
+
 <br>
 <br>
 <hr>
