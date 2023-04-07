@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Data Science Engineering Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966")>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-110103&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-110103" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mihir-110103&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-110103" /> 
+</p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -73,7 +75,13 @@
 <hr>
 <p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&locale=en&layout=compact" alt="mihir-110103" />
+<p align="center">
+  <a href="https://github.com/MIHIR-110103/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444&layout=compact" alt="mihir-110103" />
+
+  </a>
+</p>
+  
 </p>
 <h1 align="center"> Statistics</h1>
 <p align="center">
