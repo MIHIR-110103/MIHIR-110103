@@ -33,8 +33,8 @@
   <img align="center" src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" width="50" /></a>
 </p>
 
+<h3 align="left">My Tech Stack:</h3>
 <p align="left">
-        <h3 align="left">My Tech Stack:</h3>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="cp" width="50" height="50"/> 
@@ -70,18 +70,42 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="cp" width="50" height="50"/> 
         </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="cp" width="50" height="50"/> 
+        </a>
+        <h4></h4>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="cp" width="50" height="50"/> 
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="cp" width="50" height="50"/> 
+        </a>
+        <h4></h4>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="cp" width="60" height="60"/> 
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="cp" width="70" height="50"/> 
+        </a>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052" alt="cp" width="70" height="40"/> 
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="cp" width="50" height="50"/> 
         </a>
+        <h4></h4>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="cp" width="50" height="50"/> 
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="cp" width="50" height="50"/> 
+        </a>
       </p>
-
-<br>
-<br>
 <hr>
 <p>
 
