@@ -110,6 +110,9 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="cp" width="50" height="50"/> 
         </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" alt="cp" width="50" height="50"/> 
+        </a>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="cp" width="50" height="50"/> 
