@@ -129,15 +129,23 @@
         </a>
       </p>
 <hr>
-<p>
-
-<p align="center">
-  <a href="https://github.com/MIHIR-110103/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444&layout=compact" alt="mihir-110103" />
+<h3 align="left">My Certifications:</h3>
+<p align="left">
+  <h4></h4>
+  <a href="https://www.credly.com/badges/1309bf65-8a1b-4894-93fc-c9acc23fdea1/public_url" target="_blank" rel="noreferrer">
+      <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="cp" width="200" height="200"/> 
   </a>
 </p>
-  
+<hr>
+<p>
+
+  <p align="center">
+    <a href="https://github.com/MIHIR-110103/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-110103&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444&layout=compact" alt="mihir-110103" />
+    </a>
+  </p>
 </p>
+
 <h1 align="center"> Statistics</h1>
 <p align="center">
   <a href="https://github.com/MIHIR-110103/github-readme-stats">
