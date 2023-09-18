@@ -45,6 +45,9 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="cp" width="50" height="50"/> 
         </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="cp" width="50" height="50"/> 
+        </a>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="cp" width="50" height="50"/> 
@@ -57,6 +60,9 @@
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="cp" width="50" height="50"/> 
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="cp" width="50" height="50"/> 
