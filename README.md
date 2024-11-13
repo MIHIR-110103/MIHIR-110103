@@ -21,16 +21,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/mihir randive" target="blank">
   <img align="center" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" alt="mihir randive" width="50" /></a>
-<a href="https://medium.com/mihir randive" target="blank">
-  <img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" alt="mihir randive" width="50" /></a>
 <a href="https://kaggle.com/mihir bhushan randive" target="blank">
   <img align="center" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" alt="mihir bhushan randive"  width="70" /></a>
 <a href="https://medium.com/mihir randive" target="blank">
   <img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="mihir randive" width="50" /></a>
-<a href="https://www.codechef.com/users/mihirrandive" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/256/codechef.png" alt="mihirrandive" width="70" /></a>
-<a href="https://www.hackerrank.com/mihir randive" target="blank">
-  <img align="center" src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" width="50" /></a>
 </p>
 
 <h3 align="left">My Tech Stack:</h3>
@@ -41,12 +35,6 @@
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="cp" width="50" height="50"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="cp" width="50" height="50"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -62,9 +50,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="cp" width="50" height="50"/> 
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="cp" width="50" height="50"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -75,12 +60,6 @@
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="cp" width="50" height="50"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="cp" width="50" height="50"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="cp" width="50" height="50"/> 
         </a>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
